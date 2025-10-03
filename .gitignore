@@ -9,7 +9,24 @@ data_*/
 # Godot 4 specific
 .godot/
 
+# Personal/sensitive files
+pat.txt
+
 # General
 *.swp
 *.swo
 *~
+.DS_Store
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
